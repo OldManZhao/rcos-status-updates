@@ -14,7 +14,7 @@
 
 > In this section, you can write about any blockers that you are having trouble in the project.
 
-> N/A
+> We aren't well versed with XCode and Swift so we are learning how to use various UI components and attaching code to the components as we go along and develop the app.
 
 ## Notes
 
